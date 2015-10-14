@@ -105,7 +105,17 @@ footer  {
 }
 
 .kontakter{
+	float:center;
 	clear:all;
-	margin:30px;
-	margin-left:50px;
+	font-size:12px;
+	margin:5px;
+	margin-left:2px;
+}
+
+.kontakt{
+	float:center;
+	clear:all;
+	font-size:12px;
+	margin:5px;
+	margin-left:120px;
 }
